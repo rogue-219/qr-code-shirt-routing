@@ -1,0 +1,19 @@
+{
+  "redirects": [
+    {
+      "source": "/quit",
+      "destination": "https://qrcodeshirtquit.carrd.co",
+      "permanent": false
+    },
+    {
+      "source": "/orlando",
+      "destination": "https://qrcodeshirtorlando.carrd.co",
+      "permanent": false
+    },
+    {
+      "source": "/billionaire",
+      "destination": "https://qrcodeshirtbillionaire.carrd.co",
+      "permanent": false
+    }
+  ]
+}
