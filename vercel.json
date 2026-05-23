@@ -12,7 +12,7 @@
     },
     {
       "source": "/billionaire",
-      "destination": "https://qrcodeshirtbillionaire.carrd.co",
+      "destination": "https://qrcodeshirtbillionaire.carrd.co", 
       "permanent": false
     }
   ]
